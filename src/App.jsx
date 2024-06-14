@@ -38,7 +38,7 @@ useEffect(()=>{passwordGenerator()
   return (
     <>
     <div className='w-full max-w-lg mx-auto shadow-lg rounded-xl px-7 py-6  text-gray-700  'style={{ backgroundColor: '#131D22' }}>
-      <h1 className='text-gray-300 text-center font-tiny5-regular text-2xl m-2 '>Password Generator</h1>
+      <h1 className='text-gray-300 text-center font-tiny5-regular text-2xl  m-2 '>Password Generator</h1>
       <div className='flex  rounded-lg overflow-hidden  '>
       <input 
       type='text' 
